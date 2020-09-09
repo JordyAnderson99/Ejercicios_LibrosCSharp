@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Ejercicios_LibrosCSharp
+namespace Ejercicio1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Jordy");
+            Console.WriteLine("Jordy Anderson");
         }
     }
 }
