@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\bin\Debug\netcoreapp3.1\Ejer.Cap2.exe
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\bin\Debug\netcoreapp3.1\Ejer.Cap2.deps.json
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\bin\Debug\netcoreapp3.1\Ejer.Cap2.runtimeconfig.json
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\bin\Debug\netcoreapp3.1\Ejer.Cap2.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\bin\Debug\netcoreapp3.1\Ejer.Cap2.dll
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\bin\Debug\netcoreapp3.1\Ejer.Cap2.pdb
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\obj\Debug\netcoreapp3.1\Ejer.Cap2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\obj\Debug\netcoreapp3.1\Ejer.Cap2.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\obj\Debug\netcoreapp3.1\Ejer.Cap2.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\obj\Debug\netcoreapp3.1\Ejer.Cap2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\obj\Debug\netcoreapp3.1\Ejer.Cap2.dll
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\obj\Debug\netcoreapp3.1\Ejer.Cap2.pdb
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap2\obj\Debug\netcoreapp3.1\Ejer.Cap2.genruntimeconfig.cache
