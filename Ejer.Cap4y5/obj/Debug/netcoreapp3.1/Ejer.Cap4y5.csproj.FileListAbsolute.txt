@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\bin\Debug\netcoreapp3.1\Ejer.Cap4y5.exe
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\bin\Debug\netcoreapp3.1\Ejer.Cap4y5.deps.json
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\bin\Debug\netcoreapp3.1\Ejer.Cap4y5.runtimeconfig.json
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\bin\Debug\netcoreapp3.1\Ejer.Cap4y5.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\bin\Debug\netcoreapp3.1\Ejer.Cap4y5.dll
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\bin\Debug\netcoreapp3.1\Ejer.Cap4y5.pdb
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\obj\Debug\netcoreapp3.1\Ejer.Cap4y5.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\obj\Debug\netcoreapp3.1\Ejer.Cap4y5.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\obj\Debug\netcoreapp3.1\Ejer.Cap4y5.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\obj\Debug\netcoreapp3.1\Ejer.Cap4y5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\obj\Debug\netcoreapp3.1\Ejer.Cap4y5.dll
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\obj\Debug\netcoreapp3.1\Ejer.Cap4y5.pdb
+C:\Users\DELL\source\repos\Ejercicios_LibrosCSharp\Ejer.Cap4y5\obj\Debug\netcoreapp3.1\Ejer.Cap4y5.genruntimeconfig.cache
